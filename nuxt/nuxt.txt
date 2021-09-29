@@ -1,0 +1,5 @@
+Документация: https://nuxtjs.org/
+32 часов изучения Nuxt: https://vc.ru/dev/131226-37-chasov-video-pro-nuxt-js
+
+Статьи:
+https://nuxtjs.org/blog/understanding-how-fetch-works-in-nuxt-2-12

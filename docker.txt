@@ -1,0 +1,21 @@
+Шпаргалка по Docker
+https://github.com/eon01/DockerCheatSheet
+
+Посмотрите какие версии поддерживаются:
+https://docs.docker.com/compose/compose-file/#compose-and-docker-compatibility-matrix
+По выпуску compose:
+https://github.com/docker/compose/releases
+Таблица с версиями docker и docker-compose
+https://sreeninet.wordpress.com/2017/03/28/comparing-docker-compose-versions/
+
+Статьи:
+https://habr.com/en/company/ruvds/blog/438796/
+
+команды: 
+docker system prune -af
+docker ps
+docker ps -a
+docker system prune -a 
+docker rm <filename/>
+docker-compose up
+docker-compose dowm

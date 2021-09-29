@@ -1,0 +1,8 @@
+https://www.screamingfrog.co.uk/seo-spider/
+1) utf-8
+2) 200 ответ, если 300 redirect
+3) страницы индексируются: код отфета, robot-txt, 
+4)title, description, h1
+5) canonical
+6) yandex metrica
+7) sitemap

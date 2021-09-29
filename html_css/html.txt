@@ -1,0 +1,8 @@
+Ресурсы:
+https://www.w3schools.com/
+
+
+Фреймворки
+https://getbootstrap.com/
+https://bootswatch.com/
+https://materializecss.com/

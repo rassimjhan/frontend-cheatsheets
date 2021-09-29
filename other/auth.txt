@@ -1,0 +1,3 @@
+https://dataart.team/ru/news/autentifikatsiya-i-avtorizatsiya-v-mikroservisny-h-prilozheniyah/#authTypes
+https://jwt.io/introduction
+https://medium.com/nerd-for-tech/5-steps-of-authentication-flow-in-frontend-747885367005

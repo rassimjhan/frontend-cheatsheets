@@ -1,0 +1,10 @@
+Шпаргалки:
+https://www.30secondsofcode.org/git/p/1
+
+Команды:
+git status
+git log
+git commit -m ""
+git add <...>(*, . , <filename>)
+git push -u origin <branchname>
+git checkout -b <branchname> ==>(git branch iss53 && git checkout iss53)

@@ -1,0 +1,5 @@
+Шпаргалки:
+http://javascript-reference.info/
+https://learn.javascript.ru/
+https://bestofjs.org/projects/js-algorithms-and-data-structures
+https://github.com/azat-io/you-dont-know-js-ru

@@ -1,0 +1,4 @@
+https://bestofjs.org/projects?tags=learning
+https://bestofjs.org/
+https://github.com/RitikPatni/Front-End-Web-Development-Resources#youtube-channels
+https://www.30secondsofcode.org/

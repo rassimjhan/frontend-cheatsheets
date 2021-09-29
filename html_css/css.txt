@@ -1,0 +1,6 @@
+Учебные ресурсы:
+https://flukeout.github.io/
+
+Темплейты:
+https://loading.io/css/
+https://projects.lukehaas.me/css-loaders/
